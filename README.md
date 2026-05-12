@@ -6,10 +6,10 @@
 
 
 ## Live Demo
-not-deployed
+https://marvelous-duckanoo-874391.netlify.app
 
 ## Repo
-pending
+https://github.com/acemaster-gh/test-project7
 
 ## Built With
 - HTML
